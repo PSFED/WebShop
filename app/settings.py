@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # added apps
     "main",
-    # "goods",
+    "goods",
     # "users",
     # "carts",
     # "orders",
