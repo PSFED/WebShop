@@ -1,4 +1,4 @@
-from main.views import catalog, product
+from goods.views import catalog, product
 from django.urls import path
 
 app_name = "goods"
